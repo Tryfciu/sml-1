@@ -9,7 +9,7 @@ st.image('flags.jpg',use_column_width=True)
 st.title('Tłumacz z języka angielskiego na niemiecki')
 
 st.text('Ta aplikacja tłumaczy słowa z języka angielskiego na język niemiecki.')
-st.text('Wpisz słowo w języku angielskim a następnie kliknij ctrl+enter')
+st.text('Wpisz słowo w języku angielskim a następnie kliknij przycisk \'Tłumacz\'')
 
 option = st.selectbox(
     "Opcje tłumaczenia",
